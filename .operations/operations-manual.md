@@ -8,7 +8,7 @@ In a nutshell, every issue and PR should get tagged by one of our core team and 
 
 There is no specific person on call who assigns inquiries rather we count on our core team to visit almost everyday and assign issues/PR - this way, the workflow is not depend upon any specific person rather on our entire team.
 
-Any new content should conform to our [writing guidelines](https://github.com/i0natan/nodebestpractices/blob/master/.operations/writing-guidelines.md)
+Any new content should conform to our [writing guidelines](https://github.com/goldbergyoni/nodebestpractices/blob/master/.operations/writing-guidelines.md)
 
 ## Monthly maintenance
 
@@ -40,18 +40,14 @@ Each month, a maintainer on call will open an issue for maintenance work and rec
 
 | Month   | Maintainer on call |
 |---------|--------------------|
-| 10/2018 | Sagir              |
-| 11/2018 | Bruno              |
-| 12/2018 | Yoni               |
-| 01/2019 | Kyle               |
-| 02/2019 | Sagir              |
-| 03/2019 | Bruno              |
-| 04/2019 | Yoni               |
-| 05/2019 | Kyle               |
-| 06/2019 | Sagir              |
-| 07/2019 | Bruno              |
-| 09/2019 | Yoni               |
-
+| 10/2019 | Yoni               |
+| 12/2019 | Bruno              |
+| 02/2020 | Kyle               |
+| 04/2020 | Yoni               |
+| 06/2020 | Bruno              |
+| 08/2020 | Kyle               |
+| 10/2020 | Yoni               |
+| 12/2020 | Bruno              |
 
 <br/>
 
@@ -84,9 +80,11 @@ Each month, a maintainer on call will open an issue for maintenance work and rec
 | French               | Yoni     |
 | Russian              | Yoni     |
 | Korean               | Yoni     |
-| Spanish              | Kyle     |
+| Spanish              | Kevyn    |
 | Chinese              | Yoni     |
 | Korean               | Kyle     |
 | Egyptian             | Yoni     |
 | Ukrainian            | Bruno    |
+| Polish               | Kevyn    |
+| Thai                 | Kevyn    |
 
